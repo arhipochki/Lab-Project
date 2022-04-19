@@ -567,19 +567,27 @@ namespace SecondProgLab
             // Если уже существует другой студент, то добавляем нового с известными данными о преподавателе и экзаменаторе.
             if (students[currentGroup].Count > 0)
             {
-                newStudent.Grades = new List<GuidPair> { new GuidPair {
-                                                                    Name = currentSubject,
-                                                                    SubjectGUID = subjects[currentSubject],
-                                                                    ExaminerGUID = students[currentGroup][0].Grades[currentSubjectIdx].ExaminerGUID,
-                                                                    TeacherGUID = students[currentGroup][0].Grades[currentSubjectIdx].TeacherGUID
-                                                                   } };
+                newStudent.Grades = new List<GuidPair>();
+                int idx = 0;
+                foreach (var subj in this.subjectComboBox.Items)
+                {
+                    newStudent.Grades.Add(new GuidPair
+                    {
+                        Name = subj.ToString(),
+                        SubjectGUID = subjects[subj.ToString()],
+                        ExaminerGUID = students[currentGroup][0].Grades[idx].ExaminerGUID,
+                        TeacherGUID = students[currentGroup][0].Grades[idx].TeacherGUID
+                    });
+                    idx++;
+                }
             }
             else // Иначе добавлением только предмет
             {
-                newStudent.Grades = new List<GuidPair> { new GuidPair {
-                                                                    Name = currentSubject,
-                                                                    SubjectGUID = subjects[currentSubject]
-                                                                   } };
+                newStudent.Grades = new List<GuidPair>();
+                foreach (var subj in this.subjectComboBox.Items)
+                {
+                    newStudent.Grades.Add(new GuidPair { Name = subj.ToString(), SubjectGUID = subjects[subj.ToString()] });
+                }
             }
 
             newStudent.GenerateGUID();
