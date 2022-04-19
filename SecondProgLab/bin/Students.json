@@ -1,0 +1,280 @@
+{
+  "КС-23": [
+    {
+      "Group": "КС-23",
+      "Grades": [
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 60,
+          "ExamGrade": 40,
+          "TotalGrade": 100
+        },
+        {
+          "Name": "Математика",
+          "SubjectGUID": "540878ba-547d-4472-b877-d770176565d4",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 56,
+          "ExamGrade": 35,
+          "TotalGrade": 91
+        },
+        {
+          "Name": "Химия",
+          "SubjectGUID": "df83cb94-6680-4ae5-8547-65cc8f6f5209",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        },
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "e18a35dc-32dc-4810-b1c8-401a6658dea0",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 47.75,
+      "Name": "Alex",
+      "GUID": "a3f5ae9d-54df-41c2-8abb-59fee031fa4f"
+    },
+    {
+      "Group": "КС-23",
+      "Grades": [
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 60,
+          "ExamGrade": 40,
+          "TotalGrade": 100
+        },
+        {
+          "Name": "Математика",
+          "SubjectGUID": "540878ba-547d-4472-b877-d770176565d4",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 60,
+          "ExamGrade": 40,
+          "TotalGrade": 100
+        },
+        {
+          "Name": "Химия",
+          "SubjectGUID": "df83cb94-6680-4ae5-8547-65cc8f6f5209",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        },
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "e18a35dc-32dc-4810-b1c8-401a6658dea0",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 50.0,
+      "Name": "Artyom",
+      "GUID": "9f7f3e78-e291-42d7-91bd-1b2cf832c47a"
+    },
+    {
+      "Group": "",
+      "Grades": [
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 56,
+          "ExamGrade": 40,
+          "TotalGrade": 96
+        },
+        {
+          "Name": "Математика",
+          "SubjectGUID": "540878ba-547d-4472-b877-d770176565d4",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        },
+        {
+          "Name": "Химия",
+          "SubjectGUID": "df83cb94-6680-4ae5-8547-65cc8f6f5209",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        },
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "e18a35dc-32dc-4810-b1c8-401a6658dea0",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 24.0,
+      "Name": "123",
+      "GUID": "2e668362-8660-4314-9655-f9e224a44893"
+    }
+  ],
+  "КС-28": [
+    {
+      "Group": "КС-28",
+      "Grades": [
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 47,
+          "ExamGrade": 40,
+          "TotalGrade": 87
+        }
+      ],
+      "Rating": 87.0,
+      "Name": "Nikita",
+      "GUID": "f73b9786-9ce3-4940-ad4f-1f135639ce80"
+    },
+    {
+      "Group": "КС-28",
+      "Grades": [
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 17,
+          "ExamGrade": 40,
+          "TotalGrade": 57
+        }
+      ],
+      "Rating": 57.0,
+      "Name": "Maxim",
+      "GUID": "87f33b93-238f-424c-abd0-a4b198896969"
+    }
+  ],
+  "КС-20": [
+    {
+      "Group": "КС-20",
+      "Grades": [
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 36,
+          "ExamGrade": 40,
+          "TotalGrade": 76
+        },
+        {
+          "Name": "Математика",
+          "SubjectGUID": "540878ba-547d-4472-b877-d770176565d4",
+          "TeacherGUID": "b36a742f-25df-459e-a218-384e64ffa63e",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 38.0,
+      "Name": "Katya",
+      "GUID": "31d5b5c5-82a8-489a-8907-aca26858a5c9"
+    },
+    {
+      "Group": "КС-20",
+      "Grades": [
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 1,
+          "ExamGrade": 40,
+          "TotalGrade": 41
+        },
+        {
+          "Name": "Математика",
+          "SubjectGUID": "540878ba-547d-4472-b877-d770176565d4",
+          "TeacherGUID": "b36a742f-25df-459e-a218-384e64ffa63e",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 20.5,
+      "Name": "Misha",
+      "GUID": "d4ee5023-c1d7-4321-a077-5a91cee6f89e"
+    }
+  ],
+  "КС-26": [
+    {
+      "Group": "КС-26",
+      "Grades": [
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 32,
+          "ExamGrade": 40,
+          "TotalGrade": 72
+        },
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 36.0,
+      "Name": "Katya",
+      "GUID": "0afedb60-2336-4b18-8360-8d9a28b4f73a"
+    },
+    {
+      "Group": "КС-26",
+      "Grades": [
+        {
+          "Name": "Технология программирования",
+          "SubjectGUID": "3519426e-6860-4d3f-bb92-b7322d6c7ad2",
+          "TeacherGUID": "aa24d0a2-fc1f-4015-80a8-353c197148ff",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 48,
+          "ExamGrade": 40,
+          "TotalGrade": 88
+        },
+        {
+          "Name": "Программирование на языках высокого уровня",
+          "SubjectGUID": "0eeb4659-c252-4b1c-bfc3-6694086123e6",
+          "TeacherGUID": "00000000-0000-0000-0000-000000000000",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 0,
+          "ExamGrade": 0,
+          "TotalGrade": 0
+        }
+      ],
+      "Rating": 44.0,
+      "Name": "Amir",
+      "GUID": "7c71d4bc-b7ea-4bdd-904b-7380d2273f88"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ghj": [
+    {
+      "Group": "",
+      "Grades": [
+        {
+          "Name": "111",
+          "SubjectGUID": "7b15ed45-d7e8-47aa-af9c-69e31bd262f1",
+          "TeacherGUID": "f0adf2c5-feff-4c4c-b5c0-4244540efe43",
+          "ExaminerGUID": "00000000-0000-0000-0000-000000000000",
+          "TermGrade": 10,
+          "ExamGrade": 14,
+          "TotalGrade": 24
+        }
+      ],
+      "Rating": 24.0,
+      "Name": "aaaa",
+      "GUID": "00000000-0000-0000-0000-000000000000"
+    }
+  ]
+}

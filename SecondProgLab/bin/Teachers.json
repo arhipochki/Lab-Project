@@ -1,0 +1,46 @@
+[
+  {
+    "Subjects": [
+      {
+        "Name": "Programming on High-Level languages",
+        "Groups": [
+          "CS-23",
+          "CS-28"
+        ]
+      }
+    ],
+    "Name": "Svyatoslav",
+    "Rating": 0,
+    "Grades": {},
+    "GUID": "2bbab0d6-e98d-4172-87e6-9ed8713d31de"
+  },
+  {
+    "Subjects": [
+      {
+        "Name": "Technology of programming",
+        "Groups": [
+          "CS-20",
+          "CS-26"
+        ]
+      }
+    ],
+    "Name": "Alexey",
+    "Rating": 0,
+    "Grades": {},
+    "GUID": "1e747f43-dc6c-4a1f-bb19-0d5d44e86719"
+  },
+  {
+    "Subjects": [
+      {
+        "Name": "Math",
+        "Groups": [
+          "CS-23"
+        ]
+      }
+    ],
+    "Name": "Yulia",
+    "Rating": 0,
+    "Grades": {},
+    "GUID": "4c608fd8-679a-4abf-b70f-adb2996ba502"
+  }
+]
