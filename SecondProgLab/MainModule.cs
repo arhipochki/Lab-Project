@@ -24,7 +24,7 @@ namespace SecondProgLab
                 return new Dictionary<string, List<Student>>();
             }
 
-            var _jsonString = File.ReadAllText("Students.json");
+            var _jsonString = File.ReadAllText(_fileName);
             
             return JsonConvert.DeserializeObject<Dictionary<string, List<Student>>>(_jsonString);
         }
